@@ -1,4 +1,4 @@
-package com.jin01.settingGit;
+package com.jin01.settingGit.day04_lambda;
 
 import java.util.Arrays;
 import java.util.List;
